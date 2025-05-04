@@ -26,6 +26,9 @@ Dataset yang digunakan dalam project ini berisi informasi tentang pesanan photoc
 
 Analisis ini memberikan wawasan berharga tentang penjualan K-Pop Photocard di Shopee, seperti preferensi pembeli, produk populer, dan kombinasi produk yang menarik. Informasi ini dapat digunakan untuk meningkatkan strategi penjualan, seperti rekomendasi produk yang lebih personal dan promosi yang lebih efektif.
 
+## visualisasi 
+![Distribution of Transactions by provinsi](images/download.png) 
+
 
 ## Library yang Digunakan
 
